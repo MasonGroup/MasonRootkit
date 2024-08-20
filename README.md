@@ -1,175 +1,35 @@
-<html lang="en"><head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/SKOBEDO/SKOBEDO.github.io/main/Mason.ico">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Members</title>
-    <meta property="og:title" content="MasonMembers"><meta property="og:description" content="List of members of the freemasonry group"><meta property="og:image" content="https://i.ibb.co/HNpqTfL/avatars-g-EWe-PIQWS8j5yzk1-Kp-CBz-Q-t500x500.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="1200"><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-</head>
-<body>
-
-    <style>
-        @import"https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap";
-        :root {
-            font-family: Kanit, sans-serif;
-            background-color: #2e3352;
-            color: #d0bceb;
-            user-select: none;
-            overflow: hidden;
-        }
-        body {
-            animation: fadeIn 1s;
-        }
-
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            height: 100vh;
-            flex-direction: column;
-        }
-
-        .container p {
-            width: 95%;
-            word-wrap: break-word;
-            filter: drop-shadow(0 0 10px #bd93f9);
-            font-size: 2rem;
-            font-weight: 500;
-        }
-
-        .Discord {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%,-50%);
-        }
-
-        .Discord button {
-            background-color: transparent;
-            border: none;
-            outline: none;
-            color: #bd93f9;
-            font-family: Kanit, sans-serif;
-            font-size: 1.75rem;
-            font-weight: 500;
-            margin: .3rem;
-            padding: .3rem;
-            filter: drop-shadow(0 0 10px #bd93f9);
-            transition: all .5s ease;
-        }
-
-        .Discord button:hover {
-            color: #f8f8f2;
-            filter: drop-shadow(0 0 20px #f8f8f2);
-            cursor: pointer;
-        }
-
-        .Discord input {
-            background-color: transparent;
-            outline: none;
-            color: #bd93f9;
-            font-family: Kanit, sans-serif;
-            font-size: 1.5rem;
-            font-weight: 500;
-            margin: .3rem;
-            padding: .3rem;
-            filter: drop-shadow(0 0 10px #bd93f9);
-            transition: all .5s ease;
-        }
-
-        .Discord input::placeholder {
-            color: #bd93f980;
-            opacity: .85;
-        }
-
-        .Discord input:hover {
-            color: #f8f8f2;
-            filter: drop-shadow(0 0 20px #f8f8f2);
-            cursor: pointer;
-        }
-
-        .footer {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            padding: 1rem;
-            text-align: center;
-            font-size: .8rem;
-            color: #f8f8f2;
-            transition: all .5s ease;
-        }
-
-        .footer a {
-            filter: drop-shadow(0 0 5px #bd93f9);
-            color: #bd93f9;
-            text-decoration: none;
-            transition: all .5s ease;
-        }
-
-        .footer a:hover {
-            color: #f8f8f2;
-            filter: drop-shadow(0 0 20px #f8f8f2);
-        }
-
-        .footer:hover {
-            transform: scale(1.05) skewY(-1deg);
-        }
-
-        .github {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            padding: 1rem;
-            font-size: 1rem;
-            color: #f8f8f2;
-            transition: all .5s ease;
-        }
-
-        .github svg {
-            filter: drop-shadow(0 0 5px #bd93f9);
-            height: 2rem;
-            width: 2rem;
-            fill: #bd93f9;
-            transition: all .5s ease;
-        }
-
-        .github svg:hover {
-            fill: #f8f8f2;
-            filter: drop-shadow(0 0 20px #f8f8f2);
-            transform: scale(1.05) skewY(-1deg);
-        }
-
-        @keyframes fadeIn {
-            0% {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
-        }
-    </style>
-    <div id="app">
-        <div class="container">
-            <p id="members-title">Members of Freemasonry</p>
-            <p id="members-list">
-                ABOGHL<br>
-                ABOLHB<br>
-                SKM<br>
-                ABOGNDL<br>
-                INTERPOL<br>
-                DORX<br>
-                KSR<br>
-                RINO<br>
-                MMLO7<br>
-            </p>
-        </div>
-            <br>
-            <span></span>
-        </div>
-        <div class="footer">
-        </div>
-    
+<p align="center">
+  <img src="https://i.ibb.co/MZCZRqL/bugkit.png" alt="Image">
+</p>
 
 
-</body></html>
+MasonRootkit is a Rootkit program written in C# designed to hide the connections made by the program, as well as to conceal the program itself from its file path, process list, and all other locations. This program features advanced capabilities for hiding activity and related files.
+
+## Features
+
+- **Connection Hiding**: MasonRootkit hides the connections created by the program so they are not visible in the list of active connections.
+- **Path Hiding**: The program can conceal itself from its original file path.
+- **Process Hiding**: MasonRootkit ensures that the program remains hidden from the list of active processes.
+- **Complete Concealment**: It works to hide all details related to the program to ensure it remains undetected.
+
+## Warning
+
+**Important**: This program is intended for educational and experimental purposes only. Using this program for malicious or illegal activities constitutes a violation of laws and ethics. We disclaim any responsibility for any misuse of this program. Any unlawful or unauthorized use of this program is the sole responsibility of the user.
+
+## How to Use
+
+1. Download and install the program on your device.
+2. Follow the instructions provided for configuring and using the program as detailed in the accompanying documentation.
+3. Ensure that the program is used legally and responsibly.
+
+## Contributing
+
+If you would like to contribute to improving MasonRootkit, you can submit pull requests or report issues through the project's GitHub repository.
+
+## Contact
+
+For any inquiries or feedback, please contact us via [email/contact link].
+
+---
+
+**Important Notice**: Use this program only for educational purposes. We do not take responsibility for any illegal or harmful use of the program.
