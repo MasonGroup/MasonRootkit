@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        MessageBox.Show("Gangsta freemasonry made me do it", "SuperBooRat");
+        MessageBox.Show("Gangsta freemasonry made me do it", "MasonRootkit");
         Environment.Exit(0);
     }
 }
