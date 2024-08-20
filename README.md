@@ -1,4 +1,4 @@
-# MasonRootkit
+## ![Image](https://i.ibb.co/JQydk3Z/Mason-Rootkit.png) MasonRootkit
 
 MasonRootkit is a Rootkit program written in C# designed to hide the connections made by the program, as well as to conceal the program itself from its file path, process list, and all other locations. This program features advanced capabilities for hiding activity and related files.
 
