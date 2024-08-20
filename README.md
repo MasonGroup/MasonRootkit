@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/MZCZRqL/bugkit.png" alt="Image">
+  <img src="https://i.ibb.co/JQydk3Z/Mason-Rootkit.png" alt="Image">
 </p>
 
 
