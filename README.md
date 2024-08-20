@@ -23,10 +23,6 @@ MasonRootkit is a Rootkit program written in C# designed to hide the connections
 
 If you would like to contribute to improving MasonRootkit, you can submit pull requests or report issues through the project's GitHub repository.
 
-## License
-
-This program is distributed under the [License Name], and is subject to copyright and relevant laws.
-
 ## Contact
 
 For any inquiries or feedback, please contact us via [email/contact link].
