@@ -22,5 +22,7 @@ MasonRootkit is a powerful tool written in C# that not only provides advanced ro
 3. Use the file format conversion feature responsibly, ensuring all activities are legal and ethical.
 
 ---
-
+<p align="center">
+  <img src="https://i.ibb.co/JQydk3Z/Mason-Rootkit.png" alt="Image">
+</p>
 **Important Notice**: Use this program only for educational purposes. We do not take responsibility for any illegal or harmful use of the program.
