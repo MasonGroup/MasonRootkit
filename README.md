@@ -7,6 +7,8 @@ MasonRootkit is a powerful tool written in C# that not only provides advanced ro
 ## Features
 
 - **File Format Conversion**: Easily convert files to `.exe`, `.bat`, `.cmd`, `.com`, `.pif`, or `.scr` formats using a simple and intuitive interface.
+- **Rootkit Integration**: Select any file and convert it into a Rootkit, allowing for deep system integration and concealment.
+- **Schtasks Integration**: A powerful feature similar to Startup, which automatically executes the program whenever the system restarts or shuts down and is restarted.
 - **Connection Hiding**: Conceal the connections created by the program to ensure they remain undetectable.
 - **Path Hiding**: MasonRootkit can hide its presence from its original file path to avoid detection.
 - **Process Hiding**: The program remains invisible in the list of active processes.
@@ -20,10 +22,12 @@ MasonRootkit is a powerful tool written in C# that not only provides advanced ro
 
 1. Download and install the program on your device.
 2. Follow the instructions provided for configuring and using the program as detailed in the accompanying documentation.
-3. Use the file format conversion feature responsibly, ensuring all activities are legal and ethical.
+3. Use the file format conversion and rootkit features responsibly, ensuring all activities are legal and ethical.
 
 ---
+
 <p align="center">
   <img src="https://i.ibb.co/JQydk3Z/Mason-Rootkit.png" alt="Image">
 </p>
+
 **Important Notice**: Use this program only for educational purposes. We do not take responsibility for any illegal or harmful use of the program.
