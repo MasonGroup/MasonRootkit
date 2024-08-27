@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Px7d60b/image.png" alt="Image">
+  <img src="https://i.ibb.co/3ytTzCR/Root.png" alt="Image">
 </p>
 
 MasonRootkit is a powerful tool written in C# that not only provides advanced rootkit functionalities but also offers a versatile UI for converting various file formats into executable formats like `.exe`, `.bat`, `.cmd`, `.com`, `.pif`, and `.scr`. This tool is designed for users who need to disguise their programs or scripts as different file types for various purposes.
